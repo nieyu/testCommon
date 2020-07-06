@@ -1,0 +1,22 @@
+{
+  "name": "testCommon",
+  "version": "0.1.0",
+  "summary": "A short description of testCommon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nieyuchina@163.com/testCommon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nieyuchina@163.com": "nieyuchina@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nieyuchina@163.com/testCommon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testCommon/Classes/**/*"
+}
