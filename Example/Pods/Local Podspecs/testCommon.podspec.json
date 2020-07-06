@@ -1,9 +1,9 @@
 {
   "name": "testCommon",
   "version": "0.1.0",
-  "summary": "A short description of testCommon.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/nieyuchina@163.com/testCommon",
+  "summary": "简短说明语法.",
+  "description": "这里添加了长描述\n你看到了吗",
+  "homepage": "https://github.com/nieyu/testCommon.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "nieyuchina@163.com": "nieyuchina@gmail.com"
   },
   "source": {
-    "git": "https://github.com/nieyuchina@163.com/testCommon.git",
+    "git": "https://github.com/nieyu/testCommon.git",
     "tag": "0.1.0"
   },
   "platforms": {
